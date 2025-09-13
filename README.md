@@ -1,8 +1,10 @@
 # Retail-sales-SQL-project 
 1-Project Overview
+
 This project provides a comprehensive, end-to-end data analysis of retail sales transactions. It showcases a complete data pipeline, from raw data ingestion to the generation of actionable business insights, using SQL Server as the primary tool. The analysis is structured to demonstrate proficiency in data cleaning, transformation, and business intelligence, ensuring a high level of data integrity and reliability throughout the process.nd the GROUP BY clause.
 
 2-Project Objectives
+
 -Methodology and Key Processes
 Data Ingestion: The project begins with the efficient ingestion of raw data from the SQL - Retail Sales Analysis_utf .csv file. The BULK INSERT command was specifically chosen for its high-performance capabilities, establishing an optimized ETL (Extract, Transform, Load) pipeline.
 
